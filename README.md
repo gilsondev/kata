@@ -9,6 +9,7 @@ Repositório que possui implementação de algoritmos, com o objetivo de resolve
 
 ## Problemas Não Resolvidos
 
+- [Two Sum](./two_sum/README.md)
 - [Simple Array Sum](./simple-array-sum/README.md)
 - [Compare the Triplets](./compare-the-triplets/README.md)
 - [Phone Validator](./phone-validator/README.md)
