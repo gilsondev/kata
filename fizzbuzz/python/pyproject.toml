@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "fizzbuzz"
+version = "0.1.0"
+description = "Algoritmo para o programa Fizz Buzz"
+authors = ["Gilson Filho <me@gilsondev.in>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.2.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
