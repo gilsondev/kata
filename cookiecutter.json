@@ -1,0 +1,7 @@
+{
+  "full_name": "Gilson Filho",
+  "email": "me@gilsondev.in",
+  "project_name": "Pratica de Algoritmos",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "project_short_description": "Algoritmo para o programa {{ cookiecutter.project_name }}"
+}
