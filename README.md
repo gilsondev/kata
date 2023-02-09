@@ -5,7 +5,7 @@ Repositório que possui implementação de algoritmos, com o objetivo de resolve
 
 ## Problemas Resolvidos
 
-
+- [Fizz Buzz](./fizzbuzz/README.md)
 
 ## Problemas Não Resolvidos
 
